@@ -1,0 +1,6 @@
+content		alertDeveloper					chrome/content/
+skin 		alertDeveloper	classic/1.0			chrome/skin/
+locale		alertDeveloper	en-US				chrome/locale/en-US/
+
+overlay chrome://mozapps/content/extensions/extensions.xul  chrome://alertDeveloper/content/extensionsOverlay.xul
+overlay about:addons                                        chrome://alertDeveloper/content/extensionsOverlay.xul

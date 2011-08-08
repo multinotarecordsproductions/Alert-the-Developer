@@ -1,0 +1,4 @@
+<!ENTITY alertDeveloper.helpFeedbackPage.label                "Submit Feedback">
+<!ENTITY alertDeveloper.happyFeedback.label		      "Praise">
+<!ENTITY alertDeveloper.sadFeedback.label		      "Issue">
+<!ENTITY alertDeveloper.ideaFeedback.label		      "Idea">
